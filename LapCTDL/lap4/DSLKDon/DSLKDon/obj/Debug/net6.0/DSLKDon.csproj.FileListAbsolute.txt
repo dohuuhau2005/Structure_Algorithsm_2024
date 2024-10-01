@@ -1,0 +1,14 @@
+C:\Users\COMPUTERUSER\Desktop\lap4\DSLKDon\DSLKDon\bin\Debug\net6.0\DSLKDon.exe
+C:\Users\COMPUTERUSER\Desktop\lap4\DSLKDon\DSLKDon\bin\Debug\net6.0\DSLKDon.deps.json
+C:\Users\COMPUTERUSER\Desktop\lap4\DSLKDon\DSLKDon\bin\Debug\net6.0\DSLKDon.runtimeconfig.json
+C:\Users\COMPUTERUSER\Desktop\lap4\DSLKDon\DSLKDon\bin\Debug\net6.0\DSLKDon.dll
+C:\Users\COMPUTERUSER\Desktop\lap4\DSLKDon\DSLKDon\bin\Debug\net6.0\DSLKDon.pdb
+C:\Users\COMPUTERUSER\Desktop\lap4\DSLKDon\DSLKDon\obj\Debug\net6.0\DSLKDon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\COMPUTERUSER\Desktop\lap4\DSLKDon\DSLKDon\obj\Debug\net6.0\DSLKDon.AssemblyInfoInputs.cache
+C:\Users\COMPUTERUSER\Desktop\lap4\DSLKDon\DSLKDon\obj\Debug\net6.0\DSLKDon.AssemblyInfo.cs
+C:\Users\COMPUTERUSER\Desktop\lap4\DSLKDon\DSLKDon\obj\Debug\net6.0\DSLKDon.csproj.CoreCompileInputs.cache
+C:\Users\COMPUTERUSER\Desktop\lap4\DSLKDon\DSLKDon\obj\Debug\net6.0\DSLKDon.dll
+C:\Users\COMPUTERUSER\Desktop\lap4\DSLKDon\DSLKDon\obj\Debug\net6.0\refint\DSLKDon.dll
+C:\Users\COMPUTERUSER\Desktop\lap4\DSLKDon\DSLKDon\obj\Debug\net6.0\DSLKDon.pdb
+C:\Users\COMPUTERUSER\Desktop\lap4\DSLKDon\DSLKDon\obj\Debug\net6.0\DSLKDon.genruntimeconfig.cache
+C:\Users\COMPUTERUSER\Desktop\lap4\DSLKDon\DSLKDon\obj\Debug\net6.0\ref\DSLKDon.dll

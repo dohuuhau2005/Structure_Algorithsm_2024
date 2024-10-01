@@ -1,0 +1,29 @@
+C:\Users\DELL\OneDrive\Máy tính\23dh114301\lap3\lap3\bin\Debug\net8.0\lap3.exe
+C:\Users\DELL\OneDrive\Máy tính\23dh114301\lap3\lap3\bin\Debug\net8.0\lap3.deps.json
+C:\Users\DELL\OneDrive\Máy tính\23dh114301\lap3\lap3\bin\Debug\net8.0\lap3.runtimeconfig.json
+C:\Users\DELL\OneDrive\Máy tính\23dh114301\lap3\lap3\bin\Debug\net8.0\lap3.dll
+C:\Users\DELL\OneDrive\Máy tính\23dh114301\lap3\lap3\bin\Debug\net8.0\lap3.pdb
+C:\Users\DELL\OneDrive\Máy tính\23dh114301\lap3\lap3\obj\Debug\net8.0\lap3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Máy tính\23dh114301\lap3\lap3\obj\Debug\net8.0\lap3.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Máy tính\23dh114301\lap3\lap3\obj\Debug\net8.0\lap3.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Máy tính\23dh114301\lap3\lap3\obj\Debug\net8.0\lap3.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Máy tính\23dh114301\lap3\lap3\obj\Debug\net8.0\lap3.dll
+C:\Users\DELL\OneDrive\Máy tính\23dh114301\lap3\lap3\obj\Debug\net8.0\refint\lap3.dll
+C:\Users\DELL\OneDrive\Máy tính\23dh114301\lap3\lap3\obj\Debug\net8.0\lap3.pdb
+C:\Users\DELL\OneDrive\Máy tính\23dh114301\lap3\lap3\obj\Debug\net8.0\lap3.genruntimeconfig.cache
+C:\Users\DELL\OneDrive\Máy tính\23dh114301\lap3\lap3\obj\Debug\net8.0\ref\lap3.dll
+C:\Users\DELL\OneDrive\Máy tính\New folder\lap3\lap3\lap3\bin\Debug\net8.0\lap3.exe
+C:\Users\DELL\OneDrive\Máy tính\New folder\lap3\lap3\lap3\bin\Debug\net8.0\lap3.deps.json
+C:\Users\DELL\OneDrive\Máy tính\New folder\lap3\lap3\lap3\bin\Debug\net8.0\lap3.runtimeconfig.json
+C:\Users\DELL\OneDrive\Máy tính\New folder\lap3\lap3\lap3\bin\Debug\net8.0\lap3.dll
+C:\Users\DELL\OneDrive\Máy tính\New folder\lap3\lap3\lap3\bin\Debug\net8.0\lap3.pdb
+C:\Users\DELL\OneDrive\Máy tính\New folder\lap3\lap3\lap3\obj\Debug\net8.0\lap3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Máy tính\New folder\lap3\lap3\lap3\obj\Debug\net8.0\lap3.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Máy tính\New folder\lap3\lap3\lap3\obj\Debug\net8.0\lap3.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Máy tính\New folder\lap3\lap3\lap3\obj\Debug\net8.0\lap3.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Máy tính\New folder\lap3\lap3\lap3\obj\Debug\net8.0\lap3.sourcelink.json
+C:\Users\DELL\OneDrive\Máy tính\New folder\lap3\lap3\lap3\obj\Debug\net8.0\lap3.dll
+C:\Users\DELL\OneDrive\Máy tính\New folder\lap3\lap3\lap3\obj\Debug\net8.0\refint\lap3.dll
+C:\Users\DELL\OneDrive\Máy tính\New folder\lap3\lap3\lap3\obj\Debug\net8.0\lap3.pdb
+C:\Users\DELL\OneDrive\Máy tính\New folder\lap3\lap3\lap3\obj\Debug\net8.0\lap3.genruntimeconfig.cache
+C:\Users\DELL\OneDrive\Máy tính\New folder\lap3\lap3\lap3\obj\Debug\net8.0\ref\lap3.dll
