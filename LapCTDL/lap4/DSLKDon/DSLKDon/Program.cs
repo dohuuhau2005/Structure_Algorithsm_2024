@@ -1,8 +1,9 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using DSLKDon;
+
 Console.OutputEncoding = System.Text.Encoding.UTF8;
 Console.InputEncoding = System.Text.Encoding.UTF8;
-static void TestInput()
+void TestInput()
 {
     MyList list = new MyList();
     list.Input();
@@ -19,6 +20,7 @@ static void TestInput()
         Console.WriteLine("6: danh sách chỉ chứa số lẻ");
         Console.WriteLine("7: nối danh sách");
         Console.WriteLine("8: exit");
+        Console.WriteLine("9: Danh sách đan xen chẳng lẻ");
         Console.Write("nhập chức năng cần sử dụng : ");
 
         int n = Convert.ToInt32(Console.ReadLine());
@@ -26,8 +28,10 @@ static void TestInput()
             list.ShowList();
         if (n == 2)
         {
+            Console.Write("nhap so can tim : ");
+            int temp = Convert.ToInt32(Console.ReadLine());
             IntNode k = new IntNode();
-            k = list.SearchX();
+            k = list.SearchX(temp);
             if (k == null)
             {
                 Console.WriteLine("không thấy x ");
@@ -60,7 +64,57 @@ static void TestInput()
 
 
         }
+        if (n == 9)
+        {
+            Console.WriteLine(" Danh sách đan xen chẳng lẻ ......");
+
+            list.JoinList2().ShowList();
+        }
     }
 }
-TestInput();
 
+//TestInput();
+void tes1()
+{
+    MyList test = new MyList();
+    test.Input2();
+    test.ShowList();
+    test = test.RemoveX(); test.ShowList();
+
+}
+void tes2()
+{
+    MyList test = new MyList();
+    test.Input2();
+    test.ShowList();
+    test.InsertAt(90, 3);
+    Console.WriteLine("sho cua test");
+    test.ShowList();
+}
+void tes3()
+{
+    MyList test = new MyList();
+    test.Input2();
+    test.ShowList();
+
+    test = test.InsertXAfterMin();
+    test.ShowList();
+}
+//tes3();
+void tes4()
+{
+    MyList test = new MyList();
+    test.Input2();
+    test.RShiftRight();
+    test.ShowList();
+}
+//tes4();
+void tes5()
+{
+    MyList test = new MyList();
+    test.Input2();
+
+    test.InterchangeSort();
+    test.ShowList();
+}
+tes5();

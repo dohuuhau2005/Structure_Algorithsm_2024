@@ -1,0 +1,14 @@
+C:\Users\COMPUTERUSER\Desktop\Structure_Algorithsm_2024\LapCTDL\DoHuuHau_Lab05\DoHuuHau_Lab05\bin\Debug\net6.0\DoHuuHau_Lab05.exe
+C:\Users\COMPUTERUSER\Desktop\Structure_Algorithsm_2024\LapCTDL\DoHuuHau_Lab05\DoHuuHau_Lab05\bin\Debug\net6.0\DoHuuHau_Lab05.deps.json
+C:\Users\COMPUTERUSER\Desktop\Structure_Algorithsm_2024\LapCTDL\DoHuuHau_Lab05\DoHuuHau_Lab05\bin\Debug\net6.0\DoHuuHau_Lab05.runtimeconfig.json
+C:\Users\COMPUTERUSER\Desktop\Structure_Algorithsm_2024\LapCTDL\DoHuuHau_Lab05\DoHuuHau_Lab05\bin\Debug\net6.0\DoHuuHau_Lab05.dll
+C:\Users\COMPUTERUSER\Desktop\Structure_Algorithsm_2024\LapCTDL\DoHuuHau_Lab05\DoHuuHau_Lab05\bin\Debug\net6.0\DoHuuHau_Lab05.pdb
+C:\Users\COMPUTERUSER\Desktop\Structure_Algorithsm_2024\LapCTDL\DoHuuHau_Lab05\DoHuuHau_Lab05\obj\Debug\net6.0\DoHuuHau_Lab05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\COMPUTERUSER\Desktop\Structure_Algorithsm_2024\LapCTDL\DoHuuHau_Lab05\DoHuuHau_Lab05\obj\Debug\net6.0\DoHuuHau_Lab05.AssemblyInfoInputs.cache
+C:\Users\COMPUTERUSER\Desktop\Structure_Algorithsm_2024\LapCTDL\DoHuuHau_Lab05\DoHuuHau_Lab05\obj\Debug\net6.0\DoHuuHau_Lab05.AssemblyInfo.cs
+C:\Users\COMPUTERUSER\Desktop\Structure_Algorithsm_2024\LapCTDL\DoHuuHau_Lab05\DoHuuHau_Lab05\obj\Debug\net6.0\DoHuuHau_Lab05.csproj.CoreCompileInputs.cache
+C:\Users\COMPUTERUSER\Desktop\Structure_Algorithsm_2024\LapCTDL\DoHuuHau_Lab05\DoHuuHau_Lab05\obj\Debug\net6.0\DoHuuHau_Lab05.dll
+C:\Users\COMPUTERUSER\Desktop\Structure_Algorithsm_2024\LapCTDL\DoHuuHau_Lab05\DoHuuHau_Lab05\obj\Debug\net6.0\refint\DoHuuHau_Lab05.dll
+C:\Users\COMPUTERUSER\Desktop\Structure_Algorithsm_2024\LapCTDL\DoHuuHau_Lab05\DoHuuHau_Lab05\obj\Debug\net6.0\DoHuuHau_Lab05.pdb
+C:\Users\COMPUTERUSER\Desktop\Structure_Algorithsm_2024\LapCTDL\DoHuuHau_Lab05\DoHuuHau_Lab05\obj\Debug\net6.0\DoHuuHau_Lab05.genruntimeconfig.cache
+C:\Users\COMPUTERUSER\Desktop\Structure_Algorithsm_2024\LapCTDL\DoHuuHau_Lab05\DoHuuHau_Lab05\obj\Debug\net6.0\ref\DoHuuHau_Lab05.dll

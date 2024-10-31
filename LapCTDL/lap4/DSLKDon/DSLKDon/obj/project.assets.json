@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\COMPUTERUSER\\Desktop\\lap4\\DSLKDon\\DSLKDon\\DSLKDon.csproj",
+      "projectUniqueName": "C:\\Users\\COMPUTERUSER\\Desktop\\Structure_Algorithsm_2024\\LapCTDL\\lap4\\DSLKDon\\DSLKDon\\DSLKDon.csproj",
       "projectName": "DSLKDon",
-      "projectPath": "C:\\Users\\COMPUTERUSER\\Desktop\\lap4\\DSLKDon\\DSLKDon\\DSLKDon.csproj",
+      "projectPath": "C:\\Users\\COMPUTERUSER\\Desktop\\Structure_Algorithsm_2024\\LapCTDL\\lap4\\DSLKDon\\DSLKDon\\DSLKDon.csproj",
       "packagesPath": "C:\\Users\\COMPUTERUSER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\COMPUTERUSER\\Desktop\\lap4\\DSLKDon\\DSLKDon\\obj\\",
+      "outputPath": "C:\\Users\\COMPUTERUSER\\Desktop\\Structure_Algorithsm_2024\\LapCTDL\\lap4\\DSLKDon\\DSLKDon\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\COMPUTERUSER\\AppData\\Roaming\\NuGet\\NuGet.Config",
